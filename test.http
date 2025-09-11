@@ -1,3 +1,4 @@
 #get http://localhost:37413/odata/v4/product/printhello(input='Hello')
 #get http://localhost:37413/odata/v4/product/addition(num1=5,num2=10)
-get http://localhost:37413/odata/v4/product/myfunction(category=1)
+#get http://localhost:37413/odata/v4/product/myfunction(category=1)
+get http://localhost:4004/odata/v4/productshop/Products
